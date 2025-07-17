@@ -1,0 +1,13 @@
+Time Off Entry,Supervisory Organization,Worker,Request Type,Time Off/Absence Table,Type,Entered On,Approval Date,Time Off Date,Start Time,End Time,Approved,Pending,Unit of Time,Time Off Reason
+07/01/2025 - 8 Hours (Persona A),Supervisory Organization (Manager 1),Person A,Absence Request,USA Vacation Time Off,Paid Time Off (PTO),17/02/2025,17/02/2025,01/07/2025,,,8,,Hours,
+07/01/2025 - 1 Days (Personal B),Supervisory Organization (Manager 1),Person B,Absence Request,IRL Parent's Leave Unpaid Time Off,Parent's Leave,03/04/2025,08/04/2025,01/07/2025,,,1,,Days,Child under 2 years
+07/01/2025 - 1 Days (Persona C),Supervisory Organization (Manager 2),Person C,Absence Request,BRA Vacation Time Off,Annual Leave,12/05/2025,14/05/2025,01/07/2025,,,1,,Days,
+07/01/2025 - 1 Days (Person D),Supervisory Organization (Manager 3),Person D,Absence Request,IND Annual Leave Time Off,Annual Leave,29/05/2025,,01/07/2025,,,,1,Days,
+07/01/2025 - 1 Days (Person E),Supervisory Organization (Manager 3),Person E,Absence Request,IND Sick Leave / Casual Leave Time Off,Sick Leave / Casual Leave,26/06/2025,26/06/2025,01/07/2025,,,1,,Days,Casual Leave
+07/02/2025 - 8 Hours (Persona A),Supervisory Organization (Manager 1),Person A,Absence Request,USA Vacation Time Off,Paid Time Off (PTO),17/02/2025,17/02/2025,02/07/2025,,,8,,Hours,
+07/02/2025 - 1 Days (Person C),Supervisory Organization (Manager 2),Person C,Absence Request,BRA Vacation Time Off,Annual Leave,12/05/2025,14/05/2025,02/07/2025,,,1,,Days,
+07/02/2025 - 1 Days (Person D),Supervisory Organization (Manager 3),Person D,Absence Request,IND Annual Leave Time Off,Annual Leave,29/05/2025,,02/07/2025,,,,1,Days,
+07/02/2025 - 1 Days (Person E),Supervisory Organization (Manager 3),Person E,Absence Request,IND Sick Leave / Casual Leave Time Off,Sick Leave / Casual Leave,26/06/2025,26/06/2025,02/07/2025,,,1,,Days,Casual Leave
+07/03/2025 - 8 Hours (Person A),Supervisory Organization (Manager 1),Person A,Absence Request,USA Vacation Time Off,Paid Time Off (PTO),17/02/2025,17/02/2025,03/07/2025,,,8,,Hours,
+07/03/2025 - 1 Days (Person C),Supervisory Organization (Manager 2),Person C,Absence Request,BRA Vacation Time Off,Annual Leave,12/05/2025,14/05/2025,03/07/2025,,,1,,Days,
+07/03/2025 - 1 Days (Person D),Supervisory Organization (Manager 3),Person D,Absence Request,IND Annual Leave Time Off,Annual Leave,29/05/2025,,03/07/2025,,,,1,Days,
